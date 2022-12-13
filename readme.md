@@ -32,7 +32,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
 *   Camunda, Camunda Cockpit, Camunda Modeleter
 *   GitHub/GitLab/Gerrit/Bitbucket
-
+/*
 ### My opensource projects
 
 *   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
@@ -61,3 +61,4 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 I always wants to share my experience, what's why I wrote post about writing resume on GitHub. This post is available on english and russian versions:
 *   EN: [Writing a resume on GitHub. A short guide](https://codegym.cc/groups/posts/589-writing-a-resume-on-github-a-short-guide)
 *   RU: [Пишем резюме на GitHub. Краткий гайд](https://javarush.ru/groups/posts/3424-pishem-rezjume-na-github)
+*   */

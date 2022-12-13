@@ -16,50 +16,15 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  <p align='center'>
-  📫  How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+  📫  How to reach me: <a href='mailto:sergiibezrukov@gmail.com'>sergiibezrukov@gmail.com</a>
 </p>
 
-### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
-*   Improving my algorithms skiils on [leetcode](https://leetcode.com/romankh3/)
-
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
-/*
-[//]: <> (
-### My opensource projects
+*   Java
+*   Maven
+*   Junit
+*   GitHub
+*
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
-[//]: <> )
-### Donate
-
-<div>
-  <a class="donate-with-crypto"
-     href="https://commerce.coinbase.com/checkout/77132d55-90df-4df0-9a0c-f535afc9ef71">
-    Donate with Crypto
-  </a>
-</div>
-
-<br>
-
-<div align="center" style="margin: 40px 0">
-    <a href="https://github.com/romankh3/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-    </a>
-</div>
-
-### How to write resume like it
-I always wants to share my experience, what's why I wrote post about writing resume on GitHub. This post is available on english and russian versions:
-*   EN: [Writing a resume on GitHub. A short guide](https://codegym.cc/groups/posts/589-writing-a-resume-on-github-a-short-guide)
-*   RU: [Пишем резюме на GitHub. Краткий гайд](https://javarush.ru/groups/posts/3424-pishem-rezjume-na-github)
-*   */
+Thanks for [romankh3] (https://github.com/romankh3) for guide to make this CV
+EN: [Writing a resume on GitHub. A short guide](https://codegym.cc/groups/posts/589-writing-a-resume-on-github-a-short-guide)

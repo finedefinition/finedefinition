@@ -15,7 +15,6 @@ I have good knowledge in backend development on Java.
 *   Maven
 *   Junit
 *   GitHub
-*
 
 Thanks for [romankh3](https://github.com/romankh3) for guide to make this CV
 [Writing a resume on GitHub. A short guide](https://codegym.cc/groups/posts/589-writing-a-resume-on-github-a-short-guide)

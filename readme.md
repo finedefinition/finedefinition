@@ -6,7 +6,7 @@ I have good knowledge in backend development on Java.
 </p>
 
 ## 🛠 Technical Stack
-*   Java
+*   Languages: Java, SQL
 *   Maven
 *   Junit
 *   GitHub

@@ -9,5 +9,7 @@ I have good knowledge in backend development on Java.
 *   Java/Kotlin languages
 *   MySQL, PostgreSQL, MongoDB
 *   Spring Framework, Spring Boot, Spring Test
+*   Tomcat
+*   Maven/Gradle
 *   GitHub/GitLab
 

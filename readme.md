@@ -6,8 +6,9 @@ I have good knowledge in backend development on Java.
 </p>
 
 ## 🛠 Technical Stack
-*   Java/Kotlin languages
-*   MySQL, PostgreSQL, MongoDB
+*   Java
+*   SQL, JDBC, Hibernate
+*   MySQL, PostgreSQL
 *   Spring Framework, Spring Boot, Spring Test
 *   Maven/Gradle
 *   Junit

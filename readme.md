@@ -6,12 +6,11 @@ I have good knowledge in backend development on Java.
 </p>
 
 ## 🛠 Technical Stack
-*   Java
-*   SQL, JDBC, Hibernate
+*   Java, Spring
+*   SQL, JDBC, JPA, Hibernate
+*   Maven
 *   MySQL, PostgreSQL
-*   Spring Framework, Spring Boot, Spring Test
-*   Maven/Gradle
 *   Junit
 *   Tomcat
 *   GitHub/GitLab
-
+*   IntelliJ IDEA/Eclipse

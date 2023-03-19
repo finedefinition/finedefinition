@@ -17,7 +17,7 @@ Over 10 years of experience in the IT Industry. Excellent reputation for resolvi
 *   Tomcat
 *   GitHub/GitLab
 *   IntelliJ IDEA/Eclipse
-*   HTML, CSS
+*   Typescript, React, HTML, CSS
 *   Linux / Unix 
 *   English: Upper Intermediate
 

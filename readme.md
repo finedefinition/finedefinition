@@ -1,6 +1,7 @@
 # Hi, I'm Sergii 👋
-Java Software Engineer with 1,5 year of experience. 
-I have good knowledge in backend development on Java, Spring and MySQL.
+Java Software Developer with 1.5 years of experience. The practice of working in a research company has formed in me an exploratory mindset, a holistic vision of processes and a high level of responsibility. 
+Over 10 years of experience in the IT Industry. Excellent reputation for resolving problems and improving customer satisfaction. My English level is upper-intermediate.
+
 <p align='left'>
   📫  How to reach me: <a href='mailto:sergiibezrukov@gmail.com'>sergiibezrukov@gmail.com</a>
 </p>
@@ -16,3 +17,7 @@ I have good knowledge in backend development on Java, Spring and MySQL.
 *   Tomcat
 *   GitHub/GitLab
 *   IntelliJ IDEA/Eclipse
+*   HTML, CSS
+*   Linux / Unix 
+*   English: Upper Intermediate
+

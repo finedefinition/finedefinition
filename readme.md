@@ -28,7 +28,7 @@ I just love programming and solving complex problems.
 * English: Upper Intermediate
 
 VOLUNTEER DIGITAL PROJECT <a href='[https://master.d1r9te8rpouud5.amplifyapp.com/]'>Art vs War</a>
-Project Author & Full-stack Developer
+**Project Author & Full-stack Developer**
 since 03.2023
 Our project dedicated to supporting Ukrainian artists and creatives who have been displaced abroad due to the war in Ukraine.
 We offer a unique opportunity to purchase their artwork while contributing to a good cause. 

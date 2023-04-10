@@ -27,7 +27,7 @@ I just love programming and solving complex problems.
 * SCRUM, Agile, Jira
 * English: Upper Intermediate
 
-VOLUNTEER DIGITAL PROJECT <br />
+**VOLUNTEER DIGITAL PROJECT** <br />
 <a href='https://master.d1r9te8rpouud5.amplifyapp.com'>Art vs War</a> <br />
 **Project Author & Full-stack Developer** <br />
 since 03.2023 <br />

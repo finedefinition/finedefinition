@@ -1,9 +1,9 @@
 # Hi, I'm Sergii 👋
-Software Developer with 1.5 year of experience. The practice of working in a research company has formed in me an exploratory mindset, a holistic vision of processes and a high level of responsibility. Excellent reputation for resolving problems and improving customer satisfaction.
-I just love programming and solving complex problems.
+As a Java Developer, I am excited to contribute my skills and knowledge to a team that values creativity, innovation, and collaboration. With experience in Java programming and familiarity with software development methodologies, I am confident in my ability to work on challenging projects and deliver high-quality solutions. I am creating the concept of the volunteer project Art vs War which is dedicated to supporting Ukrainian artists and creatives who have been displaced abroad due to the war in Ukraine. With team of developers we offer a unique opportunity to purchase their artwork while contributing to a good cause. I am committed to staying up-to-date with the latest industry trends and technologies, and I am passionate about learning new skills and techniques to improve my abilities as a developer. I just love programming and solving complex problems. 
 
 <p align='left'>
   📫  How to reach me: <a href='mailto:sergiibezrukov@gmail.com'>sergiibezrukov@gmail.com</a>
+ 
 </p>
 
 ## 🛠 Technical Stack

@@ -11,7 +11,6 @@ As a Java Developer, I am excited to contribute my skills and knowledge to a tea
 * Spring Boot 2.0 / 3.0, Spring MVC, Spring Security, Spring JPA
 * REST API
 * Hibernate 5.0 / 6.0
-* Kotlin
 * React
 * Typescript
 * SQL

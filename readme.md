@@ -27,7 +27,7 @@ As a Java Developer, I am excited to contribute my skills and knowledge to a tea
 * English: Upper Intermediate
 
 **VOLUNTEER DIGITAL PROJECT** <br />
-<a href='[https://master.d1r9te8rpouud5.amplifyapp.com](https://www.artvswar.gallery/)'>Art vs War</a> <br />
+<a href='[Site page](https://www.artvswar.gallery/)'>Art vs War</a> <br />
 artvswar.gallery <br />
 **Project Author & Full-stack Developer** <br />
 since 03.2023 <br />

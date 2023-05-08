@@ -28,7 +28,7 @@ As a Java Developer, I am excited to contribute my skills and knowledge to a tea
 
 **VOLUNTEER DIGITAL PROJECT** <br />
 <a href='[https://master.d1r9te8rpouud5.amplifyapp.com](https://www.artvswar.gallery/)'>Art vs War</a> <br />
-artvswar.gallery
+artvswar.gallery <br />
 **Project Author & Full-stack Developer** <br />
 since 03.2023 <br />
 Our project dedicated to supporting Ukrainian artists and creatives who have been displaced abroad due to the war in Ukraine. We offer a unique opportunity to purchase their artwork while contributing to a good cause.  Create concept of project, project manager. Manage team: front-end & back-end developers, QA tester. Create database and back-end interface. Set up AWS services for deploy and hosting like: Elastic Beanstalk, RDS, S3, Amplify, Cognito.
